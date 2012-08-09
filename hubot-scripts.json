@@ -2,5 +2,9 @@
   "redis-brain.coffee",
   "tweet.coffee",
   "shipit.coffee",
-  "github-issues"
+  "github-activity",
+  "github-committers",
+  "github-credentials",
+  "github-issues",
+  "github-pulls"
 ]
