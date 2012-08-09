@@ -6,5 +6,6 @@
   "github-committers.coffee",
   "github-credentials.coffee",
   "github-issues.coffee",
-  "github-pulls.coffee"
+  "github-pulls.coffee",
+  "megusta.coffee"
 ]
