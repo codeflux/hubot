@@ -1,5 +1,6 @@
 [
   "redis-brain.coffee",
+  "janky.coffee",
   "tweet.coffee",
   "shipit.coffee",
   "github-activity.coffee",
